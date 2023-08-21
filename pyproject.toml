@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "kougai-address-to-coordinate"
+version = "0.1.0"
+description = ""
+authors = ["aca-ta <seljydef@gmail.com>"]
+readme = "README.md"
+packages = [{include = "kougai_address_to_coordinate"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+googlemaps = "^4.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
