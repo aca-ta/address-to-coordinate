@@ -1,4 +1,4 @@
-# kougai-addresss-to-coordinate
+# addresss-to-coordinate
 住所データから緯度経度を取得する
 
 ## Requirements

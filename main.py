@@ -1,4 +1,4 @@
-""" kougai-address-to-coordinate """
+""" address-to-coordinate """
 import os
 
 
